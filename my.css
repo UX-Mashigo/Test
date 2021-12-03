@@ -11,7 +11,14 @@ body {
     font-size: 60px;
     font-family: Orbitron;
     letter-spacing: 7px;
-   
 
 
 }
+
+/* Khethelohp this are my changes */
+
+h1 {
+    font-size: 2rem;
+}
+
+/*  This is where my changes end */
