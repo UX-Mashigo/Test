@@ -25,6 +25,7 @@ function showTime(){
     document.getElementById("MyClockDisplay").textContent = time;
     
     setTimeout(showTime, 1000);
+    var newName =  "me";
     
 }
 
