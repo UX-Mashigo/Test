@@ -1,4 +1,4 @@
-document.getElementById("framework");
+// document.getElementById("framework");
 
 function showTime(){
     var date = new Date();
@@ -21,8 +21,8 @@ function showTime(){
     s = (s < 10) ? "0" + s : s;
     
     var time = h + ":" + m + ":" + s + " " + session;
-    document.getElementById("MyClockDisplay").innerText = time;
-    document.getElementById("MyClockDisplay").textContent = time;
+    document.getElementById("myClockDisplay").innerText = time;
+    document.getElementById("myClockDisplay").textContent = time;
     
     setTimeout(showTime, 1000);
     var newName =  "me";

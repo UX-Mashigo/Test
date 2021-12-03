@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background-color: #000;
 }
 
 .clock {
@@ -11,7 +11,6 @@ body {
     font-size: 60px;
     font-family: Orbitron;
     letter-spacing: 7px;
-
 
 }
 
